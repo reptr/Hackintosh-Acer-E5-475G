@@ -21,6 +21,9 @@
 - Bluetooth
 - Touchpad (gestures)
 
+## Not Work
+- Wifi (alternative use USB Wifi Dongle)
+
 <hr>
 
 ## Some Screenshoot
@@ -45,3 +48,8 @@
 
 ### Calendar
 <img src="IMAGE/07_Calendar.png">
+
+## License
+
+MIT License
+Copyright &copy; 2020 reptr
