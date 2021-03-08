@@ -52,4 +52,4 @@
 ## License
 
 MIT License
-Copyright &copy; 2020 reptr
+Copyright &copy; 2020
